@@ -13,12 +13,6 @@
         android:theme="@style/Theme.NewCalculatorApp"
         tools:targetApi="31">
         <activity
-            android:name=".SubtractionActivity"
-            android:exported="false" />
-        <activity
-            android:name=".AddActivity"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
